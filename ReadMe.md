@@ -1,6 +1,7 @@
 Steps
 
-Actions:
+Actions(Tasks/Project):
+
 1- data preprocessing ( word2Vec or Pandas)
 
 2- Features extraction ( deep seek or Bert or Ro berta, can we use servenet here??
